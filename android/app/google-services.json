@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "947600250023",
+    "project_id": "gatherapp-b2b7b",
+    "storage_bucket": "gatherapp-b2b7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947600250023:android:299d03581e806256093782",
+        "android_client_info": {
+          "package_name": "com.gather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947600250023-c7q9aq0lp7589kqct709pqtqb4mlnvhj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gather",
+            "certificate_hash": "44474234bc98281b83859767f5f7954fdc888fc2"
+          }
+        },
+        {
+          "client_id": "947600250023-3bcckllggmvrs3g3j6mhu62f7kdq68uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsKJQy_VdtWviYQfgSBnE3mrHsO56IfnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947600250023-3bcckllggmvrs3g3j6mhu62f7kdq68uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
